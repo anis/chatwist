@@ -1,0 +1,23 @@
+{
+  "name": "chatwist",
+  "version": "0.0.1",
+  "description": "A live-chat",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anis/chatwist.git"
+  },
+  "author": "Anis Safine <anis@safine.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anis/chatwist/issues"
+  },
+  "homepage": "https://github.com/anis/chatwist#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
